@@ -1,0 +1,38 @@
+---
+title: "Gizachew Tessema"
+subtitle: "Associate Professor"
+image: "image/prof1.jpg"
+toc: false
+
+about:
+  template: trestles
+  image-shape: round
+  image-width: 16em
+  links: 
+   - icon: linkedin
+     text: linkdeIn
+     href: https://www.linkedin.com/in/gizachew-tessema-35ab0487
+     target: _blank
+   - icon: twitter
+     text: X
+     href: https://twitter.com/Giz_tessema
+     target: _blank
+   - icon: envelop
+     text: Email
+     href: mailto:mailto:'Gizachew.Tessema@curtin.edu.au'
+     target: _blank
+   - icon: scholar
+     text: Google Scholar
+     href: https://scholar.google.com.au/citations?user=x61kRTgAAAAJ&hl=en
+     target: _blank
+---
+
+### **About - A/Prof Gizachew Tessema**
+
+Welcome to my personal website. I am a perinatal and reproductive epidemiologist, global health and health services researcher, and a teaching and research academic. I am also the [co-head of the Epidemiology Research Lab](https://pereiralab.github.io/team/) at [Curtin University](https://staffportal.curtin.edu.au/staff/profile/view/gizachew-tessema-f47032fa/), Perth, Australia
+
+My research is well-recognized in perinatal and reproductive epidemiology, health services research, and global health. After receiving my PhD in 2018 with the Dean’s Commendation for doctoral thesis excellence from the University of Adelaide, I was awarded an NHMRC Emerging Leadership (EL1) grant to develop a risk prediction model aimed at preventing avoidable adverse perinatal outcomes in Australia. I have published over 100 journal articles in high-impact, peer-reviewed journals.
+
+I have received numerous honors and awards for excellence in research, science communication, research supervision, and the quality, impact, and significance of my work. Notable awards include the [WA Young Tall Poppy Award (2022)](https://aips.net.au/tall-poppy-campaign/wa-tall-poppies/), [Raine Research Prize (2022)](https://www.rainefoundation.org.au/2022-grants-fellowships-awards-and-prizes-announcement/), [Global Health Research Award (2022) from IPUMS DHS & PMA](https://www.ipums.org/2022-award-winners), STEM Early Career Researcher of the Year at Curtin (2022), Early- and Mid-Career Researcher (EMCR) of the Year from the enAble Institute, [Commendation in Research Supervision from Curtin (2022)](https://guild.curtin.edu.au/news/article/6013/2022-EXCELLENCE-IN-TEACHING-AWARD-WINNERS/), Early Career Researcher of the Year for the Faculty of Health Sciences at Curtin (2022), the Charter Hall Research Collaboration Award from the Raine Medical Foundation (2020), Gro Harlem Brundtland Visiting Fellowship from the Norwegian Institute of Public Health (2020), and the Adelaide Scholarship International Award from the University of Adelaide (2015). My research has garnered widespread media coverage, including features in [BBC News](https://www.bbc.com/pidgin/articles/cx9evpg9wr2o), [The Guardian,](https://www.theguardian.com/lifeandstyle/2022/nov/22/no-need-for-six-month-wait-to-try-for-baby-after-pregnancy-loss-study-finds) [Fox News](https://www.foxnews.com/health/getting-pregnant-abortion-miscarriage-might-have-lower-risks-previously-suspected-study), and [Sky tg24](https://tg24.sky.it/salute-e-benessere/2022/11/24/aborto-incinta-rischi-studio).
+
+I am also a founding member and the current president of the Australian-based Ethiopian Researchers Network (ABReN), a registered organization in Australia. Additionally, I serve on the executive committee of the Health Services Research Association of Australia and New Zealand (HSRANNZ), a leading body in health services research.

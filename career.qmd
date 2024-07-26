@@ -1,0 +1,73 @@
+---
+title: "CAREER"
+title-block-banner: true
+---
+
+## {{< fa briefcase title="Current Affiliation" >}} Current Affiliation:
+
+I’m an Associate Professor, at School of Population Health and Co-head Epidemiology Research Lab, Curtin University, Australia.
+
+## {{< fa graduation-cap title="Education" >}} Education:
+
+| Year        | Institution name           | Country   | Degree                     |
+|---------------|--------------------------|------------|--------------------------------------|
+| 2015 - 2018 | The University of Adelaide | Australia | PhD in Public Health       |
+| 2012 - 2012 | University of Gondar       | Ethiopia  | MPH in Reproductive Health |
+| 2005 - 2009 | Hawassa University         | Ethiopia  | Public Health Officer      |
+
+## {{< fa history title="Work Experience" >}} Work Experience:
+
+I have over 10 years research and teaching experience in Ethiopia and Australia. since 2021.
+
+| Year                 | Position                                                | Institution                       |
+|----------------------|---------------------------------------------------------|-----------------------------------|
+| Dec 2022 - current   | Co-head Epidemiology Research Lab                       | Curtin University, Australia      |
+| Jan 2024 – current   | Associate Professor School of Population Health         | Curtin University, Australia      |
+| Feb 2023 – Dec 2023  | Senior Lecturer School of Population Health             | Curtin University, Australia      |
+| Jan 2022 – Jan 2023  | Senior Research Fellow School of Population Health      | Curtin University, Australia      |
+| Feb 2019 – Dec 2021  | Research Fellow School of Population Health             | Curtin University, Australia      |
+| Jan 2020 - Apr 2020  | Visiting Scientist Norwegian Institute of Public Health | Norway                            |
+| Mar 2019 - Current   | Adjunct Research Fellow School of Public Health,        | University of Adelaide, Australia |
+| Mar 2015- Dec 2018   | PhD Researcher School of Public Health                  | University of Adelaide, Australia |
+| Nov 2011- Oct 2012   | Department Head Institute of Public Health              | University of Gondar, Ethiopia    |
+| Jul 2012 - Feb 2015  | Lecturer Institute of Public Health                     | University of Gondar, Ethiopia    |
+| Apr 2011 - Jul 2012  | Assistant Lecturer Institute of Public Health           | University of Gondar, Ethiopia    |
+| Apr 2009 - Mar 2011  | Graduate Assistant Institute of Public Health           | University of Gondar, Ethiopia    |
+
+: Teaching and Research Experience
+
+## {{< fa tools title="Research Interests" >}} Research Interests:
+
+-   <div>
+
+    > -   Maternal and Child Health
+    >
+    > -   Birth Outcomes
+    >
+    > -   Preterm Birth and Low Birth Weight
+    >
+    > -   Prenatal Care and Health Behaviors
+    >
+    > -   Reproductive Health Disparities
+    >
+    > -   Pregnancy Complications
+    >
+    > -   Infant Mortality
+    >
+    > -   Long-term Health Outcomes of Mothers and Children
+    >
+    > -   Health Policy and Interventions in Perinatal Health
+    >
+    > -   Global Health in Maternal and Child Health
+    >
+    > -   Social Determinants of Health in Perinatal Populations
+    >
+    > -   Health Services Utilization during Pregnancy
+    >
+    > -   Perinatal Mental Health
+    >
+    > -   Nutrition and Pregnancy Outcomes
+    >
+    > -   Impact of Environmental Exposures on Pregnancy
+
+    </div>

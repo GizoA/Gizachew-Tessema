@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+
+render:
+  - "*.qmd"
+
+website:
+  favicon: image/logos/facon.png
+  navbar:
+    title: "Gizachew Tessema"
+    description: "Gizachew Tessema's personal website"
+    left:
+      - href: index.qmd
+        text: ABOUT
+        icon: person-badge-fill
+      - href: career.qmd
+        text: CAREER
+      - href: teaching.qmd
+        text: TEACHING AND SUPERVISION
+      - href: publications.qmd
+        text: PUBLICATIONS
+        icon: book-open
+      - href: grantsandawards.qmd
+        text: GRANTS and AWARDS
+        icon: fa-trophy
+      - href: presentations.qmd
+        text: PRESENTATIONS
+        icon: mic-fill
+      - href: media.qmd
+        text: MEDIA
+        icon: fa-camera-retro
+      - href: pressandnews.qmd
+        text: PRESS AND NEWS
+        icon: file-earmark-text-fill
+  page-footer:
+    background: light # or `dark`
+    left: Copyright 2021, Gizachew Tessema
+format:
+  html:
+    page-layout: full
+    sidebar: false
+    theme: 
+      light: Sandstone
+      dark: solar
+    css: styles.scss
+    mainfont: Nunito
+    #toc: true
+    #page-layout: full
