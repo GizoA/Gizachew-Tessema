@@ -2,9 +2,6 @@ project:
   type: website
   output-dir: docs
 
-render:
-  - "*.qmd"
-
 website:
   favicon: image/logos/facon.png
   navbar:
@@ -45,5 +42,3 @@ format:
       dark: solar
     css: styles.scss
     mainfont: Nunito
-    #toc: true
-    #page-layout: full
