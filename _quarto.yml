@@ -9,26 +9,23 @@ website:
     description: "Gizachew Tessema's personal website"
     left:
       - href: index.qmd
-        text: ABOUT
+        text: About
         icon: person-badge-fill
       - href: career.qmd
-        text: CAREER
+        text: Career
       - href: teaching.qmd
         text: TEACHING AND SUPERVISION
       - href: publications.qmd
-        text: PUBLICATIONS
+        text: Publications
         icon: book-open
       - href: grantsandawards.qmd
         text: GRANTS and AWARDS
         icon: fa-trophy
       - href: presentations.qmd
-        text: PRESENTATIONS
+        text: Workshop and Conference
         icon: mic-fill
       - href: media.qmd
-        text: MEDIA
-        icon: fa-camera-retro
-      - href: pressandnews.qmd
-        text: PRESS AND NEWS
+        text: Media
         icon: file-earmark-text-fill
   page-footer:
     background: light # or `dark`
