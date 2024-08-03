@@ -14,12 +14,12 @@ website:
       - href: career.qmd
         text: Career
       - href: teaching.qmd
-        text: TEACHING AND SUPERVISION
+        text: Teaching and Supervision
       - href: publications.qmd
         text: Publications
         icon: book-open
       - href: grantsandawards.qmd
-        text: GRANTS and AWARDS
+        text: Grants and Awards
         icon: fa-trophy
       - href: presentations.qmd
         text: Workshop and Conference
